@@ -11,8 +11,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "pagarme": "^4.15.3",
-    "pagarme-js-types": "^2.7.0",
-    "swagger-ui-express": "^4.1.6"
+    "pagarme-js-types": "^2.7.0"
   },
   "devDependencies": {
     "@types/express": "^4.17.11",
