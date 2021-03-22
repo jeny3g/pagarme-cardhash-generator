@@ -20,5 +20,5 @@ Simplesmente instale as dependencias e rode o projeto local
 }
   ```
   
-  Exemplo de como montar a requisicao [POST](Rota /card)
+  Exemplo de como montar a requisicao [POST](/card)
 ![image](https://user-images.githubusercontent.com/31122067/112048415-237b3b80-8b2d-11eb-8f4a-08df85f1cdce.png)
