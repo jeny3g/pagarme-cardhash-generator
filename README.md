@@ -11,7 +11,7 @@ Simplesmente instale as dependencias e rode o projeto local
   
   Exemplo de JSON
   
-  ```json
+```json
 {
 	 "card_holder_name": "Iteris AppSneakers",
    "card_number": "5129390080997679",
